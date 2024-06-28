@@ -1,0 +1,2 @@
+Scenario1: Created a new file to check the branch is working or not
+Scenario2: Merge this branch code to main
